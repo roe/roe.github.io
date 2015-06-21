@@ -27,13 +27,13 @@ Fast forward to early 2015. Clay had graduated and has been working full time si
 We both agreed to actually make quick prototypes of a game incredibly limited in scope. Here's a picture of the first screenshot from the prototype that was to become DRXN: 
 
 <p align="center">
-	<img class="post-image" src="/assets/images/prototype.png" />
+	<img class="post-image" src="/assets/images/prototype.PNG" />
 </p>
 
 We didn't focus on graphics. We didn't focus on nice UIs. We just focused on making a fun game mechanic. And we shared it super early! After a week of working on it, the "pre-alpha" was ready and was sent out to a group of friends for testing. Here's what the pre-alpha menu looked like (12 inch duck was our first pass at a company name):
 
 <p align="center">
-	<img class="post-image" src="/assets/images/pre_alpha.png" />
+	<img class="post-image" src="/assets/images/pre_alpha.PNG" />
 </p>
 
 It had some great "features" like crashing if the level you entered was too high, but that was perfectly ok. We just needed feedback.
