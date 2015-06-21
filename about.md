@@ -16,7 +16,7 @@ ______
 Started full time at Google. Founded Groe Games with Clay Goddard and released our first iOS app, [DRXN](https://itunes.apple.com/us/app/drxn/id979064633?mt=8). Invented a grill safety device that won the [Inventure Prize at Georgia Tech](https://inventureprize.gatech.edu/previous-competitions/2015).
 
 #### 2014
-Graduated with Highest Honors with a degree in Computer Science from Georgia Tech. Interned at Google as an Associate Product Manager on the Play Music iOS app.
+Interned at Google as an Associate Product Manager on the Play Music iOS app. Graduated with Highest Honors with a degree in Computer Science from Georgia Tech.
 
 {% include footer.html %}
 <small>This site is built on top of [Jekyll](http://jekyllrb.com/) with a forked [Kactus](https://github.com/nickbalestra/kactus) theme</small>
