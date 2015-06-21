@@ -13,7 +13,7 @@ paginate: 20
 baseurl: /
 domain_name: 'http://roe.io'
 google_analytics: 'UA-43944324-1'
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'alexroe'
 
 # Details for the RSS feed generator
 url:            'http://roe.io'
