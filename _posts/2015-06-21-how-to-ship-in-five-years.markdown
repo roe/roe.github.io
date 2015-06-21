@@ -1,6 +1,6 @@
 ---
 title: "How To Ship a Product in Only Five Years"
-description: the journey of Groe Game's first app
+description: the journey of Groe Games' first app
 date: 2015-06-21
 ---
 
