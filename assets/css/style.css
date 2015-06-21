@@ -627,6 +627,11 @@ h2.month {
 	min-width: 50%;
 }
 
+.nav_wrapper {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
 /* Media Queries */
 @media screen and (max-width: 540px) {
 	#wrapper { padding:20px 20px 20px 20px;}
