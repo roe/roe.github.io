@@ -371,7 +371,7 @@ img {
 Post List
 =========================================== */
 #post-list,#archive-list {
-	margin-top: 100px;
+
 }
 
 #post-list li,#archive-list li {
@@ -431,7 +431,7 @@ Post List
 #footer {
 	box-shadow: inset 0 1px 0 #eee;
 	padding: 40px 0 0 0;
-	margin-top: 100px;
+	margin-top: 50px;
 }
 
 /* Post Page */
@@ -630,6 +630,10 @@ h2.month {
 .nav_wrapper {
 	max-width: 600px;
 	margin: 0 auto;
+}
+
+.post-image {
+	max-width: 50%;
 }
 
 /* Media Queries */

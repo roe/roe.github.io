@@ -1,7 +1,7 @@
 ---
 title:  "Find Your Mantra"
 date:   2015-06-20 10:18:00
-description: Repeat. Think. Do.
+description: repeat. think. do.
 ---
 
 As my very first post, I would like to start with a passage from Marcus Aurelius' Meditations. 
@@ -13,7 +13,7 @@ As my very first post, I would like to start with a passage from Marcus Aurelius
   <footer><cite title="Marcus Aurelius - Meditations">Marcus Aurelius - Meditations</cite></footer>
 </blockquote>
 <br />
-What an incredible passage. I spent some time thinking about how my life would look if I took this to heart and more importantly, put it into action. I thought about some high level categories for how I would like to spend my my time outside of work:
+What an incredible passage. I spent some time thinking about how my life would look if I took this to heart and more importantly, put it into action. I thought about some high level categories for how I would like to spend my time outside of work:
 
 * learning
 * cultivating relationships
